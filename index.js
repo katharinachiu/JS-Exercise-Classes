@@ -42,7 +42,7 @@ class Airplane {
   */
   
  class Person {
-    
+    person 
   }
   
   /*
@@ -60,7 +60,7 @@ class Airplane {
   */
   
  class Car {
-    
+    tank=0;
   }
   
   /*
